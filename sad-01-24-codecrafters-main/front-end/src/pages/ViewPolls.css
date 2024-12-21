@@ -1,0 +1,9 @@
+
+.polls-container {
+  max-height: 300px; /* Set maximum height */
+  overflow-y: auto; /* Enable vertical scrolling */
+}
+
+.polls-list {
+  margin-top: 10px; /* Add some margin */
+}
